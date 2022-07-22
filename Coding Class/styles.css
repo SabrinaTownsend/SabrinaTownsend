@@ -1,0 +1,48 @@
+p {
+  text-align: center
+}
+body {
+    background-color: lightblue;
+  }
+
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+header {
+  color: rgba(0, 0, 255, 0.596); 
+  font-size:x-large; 
+  background-color: plum;
+  border-style: groove;
+  border-color: goldenrod;
+}
+.container {
+    border: 5px solid goldenrod;
+    height: 500px
+}
+.col-left {
+    float: left;
+    border: 5px solid pink;
+    width: 55%;
+}
+.col-right {
+    float: right;
+    border: 5px solid pink;
+    width: 40%;
+    padding-left: 20px;
+    background-image: url("organizing-unsplash2.jpg");
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+    color:blue;
+}
+footer {
+    padding-top: 20px;
+    color: rgba(0, 0, 255, 0.596); 
+    font-size:x-large; 
+    background-color: plum
+}
+.box {
+    border: 5px solid goldenrod;
+    height: 10px
+}
